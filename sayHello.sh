@@ -1,1 +1,1 @@
-echo "This is from GitHub"
+echo "This is from GitHub...Installed git on Node01"
